@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: this is indeed a title
+**this is a bolded text**
 ---
 
